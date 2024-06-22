@@ -1,6 +1,6 @@
 # Malawi_Game
 
-School project by group of 3 made in 2.5 days.  
+School project ZZ1 Isima by group of 3 made in 2.5 days.  
 The goal was to implement an atypic board game as well as the minmax algorithm so you can play when you have no friends.
 
 ## Malawi
