@@ -19,4 +19,4 @@ The goal was to implement an atypic board game as well as the minmax algorithm t
 
 ### Images
 ![image](https://github.com/Keesayy/Malawi_Game/blob/main/images/img3.png)
-![image](https://github.com/Keesayy/Malawi_Game/blob/main/images/img2.png)
+![image](https://github.com/Keesayy/Malawi_Game/blob/main/images/img1.png)
