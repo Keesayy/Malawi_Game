@@ -1,7 +1,7 @@
 # Malawi_Game
 
-School project by group of 3 in limited time of 2.5 days.  
-The goal was to implement an atypic board game as well as the minmax algorithm to have someone to play against.
+School project by group of 3 made in 2.5 days.  
+The goal was to implement an atypic board game as well as the minmax algorithm so you can play when you have no friends.
 
 ## Malawi
 
@@ -14,8 +14,13 @@ The goal was to implement an atypic board game as well as the minmax algorithm t
 
 ### How to play ?
 
-- `make` and then `./main`  
-- [Rules](https://boardgamegeek.com/boardgame/1045/malawi)
+- `make` and then `./main`
+- Each player starts with 6 pawns having 2 marbles each.
+- Move a pawn : Horizontally or vertically the number of marbles of the pawn when no obstacles.
+- Split marbles : A pawn loses all of his marbles and give each one of them to his brothers, if he has 6 marbles we lose 1 marble.
+- Attack a pawn : Same as move except you do not move and the opponent pawn loses all his marbles.
+- To win : A pawn is on the opponent back row or Opponent has no more marbles.
+[Rules Source](https://boardgamegeek.com/boardgame/1045/malawi)
 
 ### Images
 ![image](https://github.com/Keesayy/Malawi_Game/blob/main/images/img3.png)
