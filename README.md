@@ -8,12 +8,15 @@ The goal was to implement an atypic board game as well as the minmax algorithm t
 ![image](https://github.com/Keesayy/Malawi_Game/blob/main/images/malawi.jpg)
 
 ## Our Implementation
+### Demo
 
-![image](https://github.com/Keesayy/Malawi_Game/blob/main/images/img3.png)
-![image](https://github.com/Keesayy/Malawi_Game/blob/main/images/img1.png)
-![image](https://github.com/Keesayy/Malawi_Game/blob/main/images/img2.png)
+![video](https://github.com/Keesayy/Malawi_Game/blob/main/images/malawi_play.gif)
 
 ### How to play ?
 
 - `make` and then `./main`  
 - [Rules](https://boardgamegeek.com/boardgame/1045/malawi)
+
+### Images
+![image](https://github.com/Keesayy/Malawi_Game/blob/main/images/img3.png)
+![image](https://github.com/Keesayy/Malawi_Game/blob/main/images/img2.png)
