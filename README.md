@@ -10,7 +10,7 @@ The goal was to implement an atypic board game as well as the minmax algorithm t
 ## Our Implementation
 ### Demo
 
-![video](https://github.com/Keesayy/Malawi_Game/blob/main/images/malawi_play.gif)
+![video](https://github.com/Keesayy/Malawi_Game/blob/main/images/malawi.gif)
 
 ### How to play ?
 
