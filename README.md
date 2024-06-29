@@ -13,7 +13,7 @@ The goal was to implement an atypic board game as well as the minmax algorithm s
 ![image](images/malawi.jpg)
 
 ## Our Implementation
-### Demo
+### Demo (3x time speed)
 
 ![video](images/malawi.gif)
 
