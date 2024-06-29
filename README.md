@@ -3,6 +3,11 @@
 School project ZZ1 ISIMA by group of 3 made in 2.5 days.  
 The goal was to implement an atypic board game as well as the minmax algorithm so you can play when you have no friends.
 
+## Features
+
+- [x] Play through SDL interface
+- [x] Minmax algorithm
+
 ## Malawi
 
 ![image](images/malawi.jpg)
